@@ -2,8 +2,7 @@
 
 Predicts which telecom customers are likely to cancel, explains *why*, and serves predictions through a Streamlit web app.
 
-**Live demo:** _add your Streamlit Cloud link here_
-
+**Live demo:**https://the-churn-predictor.streamlit.app/
 ## Problem
 Acquiring a new customer costs far more than keeping one. Given a customer's profile, contract and services, can we flag who is likely to churn so the business can intervene early?
 
