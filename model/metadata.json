@@ -1,0 +1,8 @@
+{
+  "model_name": "XGBoost (tuned)",
+  "threshold": 0.560077965259552,
+  "test_roc_auc": 0.8462838099666744,
+  "test_recall": 0.7647058823529411,
+  "test_precision": 0.5478927203065134,
+  "test_f1": 0.6383928571428571
+}
